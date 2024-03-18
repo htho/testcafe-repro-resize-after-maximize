@@ -1,0 +1,15 @@
+{
+  "name": "testcafe-repro-resize-after-maximize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.tc.ts",
+  "scripts": {
+    "test": "testcafe chrome,firefox test.tc.ts"
+  },
+  "repository": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "testcafe": "^3.5.0"
+  }
+}
